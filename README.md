@@ -1,2 +1,2 @@
 # YouTube Music Desktop App Now Playing Widget For OBS Studio
-![Screenshot_1](https://user-images.githubusercontent.com/35993608/123556777-cc24e100-d795-11eb-8389-1ec04f3cbfa7.png)
+![Screenshot_3](https://user-images.githubusercontent.com/35993608/123556842-376eb300-d796-11eb-9014-29ce077c211e.png)
