@@ -6,8 +6,9 @@
 <b> You can use the display on the stream your listening current song. </b>
 
 # Configure
-<p> <span>&#183;</span> You can edit the information refresh milisecond on the file</p>
-<p> <span>&#183;</span> Also you can change css file and make more different styles</p>
+<p> <span>&#183;</span> Change the your windows account name on the file path variable for getting information from the app.</p>
+<p> <span>&#183;</span> You can edit the information refresh milisecond on the file default is the 30 seconds.</p>
+<p> <span>&#183;</span> Also you can change css file and make more different styles.</p>
 
 # Usage
 <p> <span>&#183;</span> Required Localhost Because PHP is not working on OBS Studio Browser (XAMPP, MAMP or any app...) </p>
