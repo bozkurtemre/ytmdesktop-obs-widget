@@ -2,6 +2,7 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/35993608/123556842-376eb300-d796-11eb-9014-29ce077c211e.png)
 
 <b> Basicly getting current song information from your AppData folder and writing widget like a Spotify Desktop Player. </b>
+<br>
 <b> You can use the display on the stream your listening current song. </b>
 
 # Usage
