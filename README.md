@@ -14,6 +14,6 @@
 
 # Usage
 <p> <span>&#183;</span> Required Localhost Because PHP is not working on OBS Studio Browser (XAMPP, MAMP or any app...) </p>
-<p> <span>&#183;</span> Drop the file on your localhost and paste url (Exp: http://localhost/ytmusic.php) OBS Studio Browser, set Dimensions (250x70) and Bum! </p>
+<p> <span>&#183;</span> Drop the file on your localhost and add Browser to Stream Scene paste url (Exp: http://localhost/ytmusic.php), set Dimensions (250x70) and Bum! </p>
 
 ![Screenshot_2](https://user-images.githubusercontent.com/35993608/123557529-01333280-d79a-11eb-981d-c66cf6f5a6a7.png)
