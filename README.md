@@ -5,7 +5,7 @@
 <br>
 <b> Basicly getting current song information from your AppData folder and writing widget like a Spotify Desktop Player. </b>
 <br>
-<b> You can use the display on the stream your listening current song. </b>
+<b> You can use the display your listening current song on the stream.  </b>
 
 # Configure
 <p> <span>&#183;</span> Change the your windows user name on the php variable for getting information from the app.</p>
