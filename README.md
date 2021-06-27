@@ -1,7 +1,7 @@
 # YouTube Music Desktop App Now Playing Widget For OBS Studio
 ![Screenshot_3](https://user-images.githubusercontent.com/35993608/123556842-376eb300-d796-11eb-9014-29ce077c211e.png)
 
-<a href="https://ytmdesktop.app/"> Youtube Music Desktop App </a>
+<a href="https://ytmdesktop.app/" target="_blank"> Youtube Music Desktop App </a>
 <br>
 <b> Basicly getting current song information from your AppData folder and writing widget like a Spotify Desktop Player. </b>
 <br>
