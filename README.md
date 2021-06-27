@@ -7,4 +7,5 @@ You can use the display on the stream your listening current song.
 # Usage
 <p> Required Localhost Because PHP is not working on OBS Studio Browser (XAMPP, MAMP or any app...) </p>
 <p> Drop the file on your localhost and paste url (Exp: http://localhost/ytmusic.php) OBS Studio Browser, set Dimensions (250x70) and Bum! </p>
+
 ![Screenshot_2](https://user-images.githubusercontent.com/35993608/123557529-01333280-d79a-11eb-981d-c66cf6f5a6a7.png)
