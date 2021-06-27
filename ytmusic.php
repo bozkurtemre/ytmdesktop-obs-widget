@@ -1,3 +1,4 @@
+<!-- Youtube Music Desktop App Now Playing Widget created by Emre Bozkurt -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -210,12 +211,12 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"
             integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
     <script>
-        var refresh = 30000;
+        var refreshInterval = 30000;
 
         function checkUpdate() {
             setTimeout(function () {
                 location.reload();
-            }, refresh);
+            }, refreshInterval);
         }
 
         $(document).ready(function () {
@@ -226,7 +227,8 @@
 <body>
 <?php
 $line = '';
-$f = fopen('file:///C:/Users/Emre/AppData/Roaming/youtube-music-desktop-app/logs/main.log', 'r');
+$accname = 'Emre'; // Change this to your pc user name
+$f = fopen('file:///C:/Users/' . $accname . '/AppData/Roaming/youtube-music-desktop-app/logs/main.log', 'r');
 $cursor = -1;
 fseek($f, $cursor, SEEK_END);
 $char = fgetc($f);
