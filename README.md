@@ -1,12 +1,14 @@
 # YouTube Music Desktop App Now Playing Widget For OBS Studio
 ![Screenshot_3](https://user-images.githubusercontent.com/35993608/123556842-376eb300-d796-11eb-9014-29ce077c211e.png)
 
+<b> https://github.com/ytmdesktop/ytmdesktop </b>
+<br>
 <b> Basicly getting current song information from your AppData folder and writing widget like a Spotify Desktop Player. </b>
 <br>
 <b> You can use the display on the stream your listening current song. </b>
 
 # Configure
-<p> <span>&#183;</span> Change the your windows account name on the file path variable for getting information from the app.</p>
+<p> <span>&#183;</span> Change the your windows user name on the php variable for getting information from the app.</p>
 <p> <span>&#183;</span> You can edit the information refresh milisecond on the file default is the 30 seconds.</p>
 <p> <span>&#183;</span> Also you can change the css and make more different styles.</p>
 
