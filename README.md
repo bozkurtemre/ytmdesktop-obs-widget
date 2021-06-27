@@ -10,3 +10,7 @@
 <p> <span>&#183;</span> Drop the file on your localhost and paste url (Exp: http://localhost/ytmusic.php) OBS Studio Browser, set Dimensions (250x70) and Bum! </p>
 
 ![Screenshot_2](https://user-images.githubusercontent.com/35993608/123557529-01333280-d79a-11eb-981d-c66cf6f5a6a7.png)
+
+# Configure
+<p> <span>&#183;</span> You can edit the information refresh milisecond on the file</p>
+<p> <span>&#183;</span> Also you can change css file and make more different styles</p>
